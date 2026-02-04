@@ -1,1 +1,1 @@
-# medical-_center_managment-odoo
+# medical_center_managment-odoo
