@@ -62,13 +62,12 @@ Base de données : PostgreSQL
 
 Sécurité : ACL, Record Rules
 
-Reporting : Odoo Reporting / Dashboards
 
 🚀 Option Avancée
 
 Intégration avec Power BI :
 
-Extraction des données via PostgreSQL ou API
+Extraction des données via PostgreSQL et API
 
 Visualisation avancée et reporting décisionnel
 
